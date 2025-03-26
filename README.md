@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there I'm George Precious👋
 
-<!--
-**Presh-connect/Presh-connect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 
 
-Here are some ideas to get you started:
+Versatile individual with experience collecting, transforming, and organizing data for analysis to help make
+informed decisions. I specialize in solving real-world problems through data-driven approaches.
+Excellent understanding and proficiency of platforms for effective data analyses,
+including SQL, spreadsheets, Tableau, and PowerBI. Strong communication, organizational, and analytical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 👀 I’m a data analyst who enjoys documenting her learning journey.
+- 🌱 I’m currently learning Improving my skills on End-To-End SQL Projects.
+- 👯 I’m open to collaborate on data analysis projects, volunteer or otherwise.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 
+ 📫 How to reach me [georgeprecious89@gmail.com]
+  🔗[https://www.linkedin.com/in/george-precious/]
+
+### Skills and Tools 🛠️
+https://numpy.org/ 
+### 💬 Connect With Me
+- 
