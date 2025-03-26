@@ -3,7 +3,7 @@
 ## About Me 
 
 Versatile individual with experience collecting, transforming, and organizing data for analysis to help make
-informed decisions. 
+informed decisions and a passion for turning raw data into strategic business value. 
 - 👀 I’m a data analyst who enjoys solving real-world problems through data-driven approaches.
 - 🌱 I’m currently Improving my skills on End-To-End SQL Projects.
 - 👯 I’m open to collaborate on data analysis projects, volunteer or otherwise.
